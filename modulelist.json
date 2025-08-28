@@ -28,35 +28,6 @@
     "keywords": ["network"]
 },
 {
-    "disableAutoUpdate": false,
-    "name": "Tera Recorder",
-    "author": "KYGAS",
-    "description": "Saves a session of your gameplay for the sake of recreating your character in the future. Or revisiting any of your memories.",
-    "options": {
-        "niceName": "TR",
-        "guiName": "Tera Recorder",
-        "reloadable": false
-    },
-    "servers": ["https://raw.githubusercontent.com/KYGAS/tera-recorder/master/"],
-	"keywords": ["network"]
-},
-{
-    "name": "Remove-Warrior-Clone",
-    "author": "KYGAS",
-    "description": "A fix for players experiencing issues with warrior clone buff.",
-    "version": "1.0",
-    "servers": ["https://raw.githubusercontent.com/KYGAS/Remove-Warrior-Clone/master/"],
-    "options": {
-        "cliName": "Remove-Warrior-Clone",
-        "guiName": "Remove-Warrior-Clone",
-        "settingsVersion": 1,
-        "settingsFile": "config.json",
-        "settingsMigrator": "settings_migrator.js"
-    },
-    "disableAutoUpdate": false,
-	"keywords": ["network"]
-},
-{
     "name": "shinra-meter",
     "servers": ["https://raw.githubusercontent.com/KYGAS/shinra-toolbox-release/master/"],
     "supportUrl": "https://github.com/KYGAS/shinra-toolbox-release/issues",
@@ -134,17 +105,6 @@
         "S_REQUEST_CONTRACT": 1,
         "S_VIEW_WARE_EX": 2
     },
-	"keywords": ["network"]
-},
-{
-    "disableAutoUpdate": false,
-    "servers": ["https://raw.githubusercontent.com/KYGAS/tera-settings-saver/master/"],
-    "author": "Kasea/ KYGAS",
-    "name": "tera-settings-saver",
-    "options": {
-        "guiName": "Setting saver"
-    },
-    "description": "Saves your settings",
 	"keywords": ["network"]
 },
 {
